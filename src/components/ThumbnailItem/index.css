@@ -1,0 +1,38 @@
+/* Write your code here. */
+@media (max-width: 768px) {
+  .item-card {
+    list-style-type: none;
+  }
+  .item-btn {
+    background-color: transparent;
+    border: none;
+  }
+  .item-img {
+    height: 100px;
+    opacity: 0.4;
+    border-radius: 10px;
+  }
+
+  .opacity {
+    opacity: 1;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .item-card {
+    list-style-type: none;
+  }
+  .item-btn {
+    background-color: transparent;
+    border: none;
+  }
+  .item-img {
+    height: 130px;
+    opacity: 0.4;
+    border-radius: 10px;
+  }
+
+  .opacity {
+    opacity: 1;
+  }
+}

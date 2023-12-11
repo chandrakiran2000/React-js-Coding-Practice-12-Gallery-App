@@ -1,0 +1,27 @@
+/* Write your code here. */
+
+.bg-card {
+  padding: 100px;
+  padding-top: 30px;
+  font-family: 'Roboto';
+}
+
+.nature-image {
+  width: 70%;
+  border-radius: 20px;
+}
+
+.image-heading {
+  color: #1e293b;
+  font-size: 35px;
+}
+.image-by {
+  color: #64748b;
+  font-size: 25px;
+}
+
+.thumbnail-card {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -46px;
+}
